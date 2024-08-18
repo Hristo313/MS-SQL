@@ -1,6 +1,6 @@
 # MS-SQL
 
-In this repository I have done some exercises in SQL Server Management Studio:
+In this repository I have done some exercises with SQL:
 
 1) CRUD operation;
 2) Table relations;
